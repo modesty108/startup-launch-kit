@@ -11,17 +11,17 @@ export const site: SiteConfig = {
   // ----------------------------------------------------------
   //  EDIT: basics. Start here (Level 1, Part B).
   // ----------------------------------------------------------
-  name: "Plovify",
-  tagline: "Plov as a Service",
+  name: "GroshUP",
+  tagline: "Learn finance in a fun way!",
   description:
-    "Plovify brings hot, fresh plov to every table, from a family dinner to a wedding for 800 guests. Replace this text with one or two sentences about the problem your startup solves and who it is for.",
-  accentColor: "#e8630a", // your brand colour as a hex code, e.g. "#2563eb" (blue)
-  contactEmail: "hello@plovify.example",
+    "GroshUP is a mobile financial literacy game designed to help young people develop practical money-management skills through interactive gameplay and real-life financial scenarios.",
+  accentColor: "#008080", // your brand colour as a hex code, e.g. "#2563eb" (blue)
+  contactEmail: "groshapp26@gmail.com",
 
   // Building your own startup? Set this to false.
   // (It hides the Plovify menu, numbers, FAQ and sample blog posts,
   //  and uses neutral texts about YOUR startup instead.)
-  showPlovifyExamples: true,
+  showPlovifyExamples: false,
 
   // ----------------------------------------------------------
   //  OPTIONAL: more sections. Edit them later if you like.
